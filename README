@@ -1,0 +1,4 @@
+Avaliação final da cadeira de Desenvolvimento de software em nuvem.
+Utilizado o javaScript + html + bootstrap + supabase
+Um CRUD simples que conecta o sistema no banco de dados da Supabase
+Para se conectar presica ter uma url pessoal que é criado no Supabase e uma Key pessoal criado no banco
